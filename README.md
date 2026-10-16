@@ -40,6 +40,10 @@ Run `AntiMrBeast.exe` as Administrator (auto-elevates via UAC if launched withou
 | `2` | **REMEDIATE** | Kills threat processes, disables WSH, applies SRP rules, and purges staging directories |
 | `3` | **EXIT** | Closes background threads and exits |
 
+## Open Source & Further Development
+
+This project is fully open source. Anyone is 100% free to fork, modify, extend heuristic definitions, add signature coverage, or integrate these remediation routines into their own endpoint defense tools and pipelines.
+
 ## Disclaimer
 
 This utility is designed around known static indicators of compromise (IOCs), designated staging paths, and specific execution behaviors. If the threat actors modify the payload filename scheme, switch execution hosts, alter persistence mechanisms, or update dropper vectors, detections may fail to identify the updated variants. This tool should complement, not replace, comprehensive endpoint detection and response (EDR) solutions.
