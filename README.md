@@ -1,8 +1,8 @@
 # AntiMrBeast
 
 <p align="left">
-  <a href="README.md"><img src="https://img.shields.io/badge/Language-English-238636?style=for-the-badge&logo=github&logoColor=white" alt="English"></a>
-  <a href="README.th.md"><img src="https://img.shields.io/badge/ภาษาไทย-Thai-21262d?style=for-the-badge&logo=readme&logoColor=8b949e" alt="Thai"></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/Language-English-238636?style=for-the-badge" alt="English"></a>
+  <a href="README.th.md"><img src="https://img.shields.io/badge/ภาษาไทย-Thai-21262d?style=for-the-badge" alt="Thai"></a>
 </p>
 
 Native Windows C++ endpoint integrity scanner and threat remediation utility targeting malicious script execution chains, dropper binaries, and unauthorized build-chain persistence.

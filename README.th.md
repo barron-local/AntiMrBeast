@@ -1,8 +1,8 @@
 # AntiMrBeast
 
 <p align="left">
-  <a href="README.md"><img src="https://img.shields.io/badge/Language-English-21262d?style=for-the-badge&logo=github&logoColor=8b949e" alt="English"></a>
-  <a href="README.th.md"><img src="https://img.shields.io/badge/ภาษาไทย-Thai-238636?style=for-the-badge&logo=readme&logoColor=white" alt="Thai"></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/Language-English-21262d?style=for-the-badge" alt="English"></a>
+  <a href="README.th.md"><img src="https://img.shields.io/badge/ภาษาไทย-Thai-238636?style=for-the-badge" alt="Thai"></a>
 </p>
 
 เครื่องมือตรวจสอบความสมบูรณ์ของระบบ (Endpoint Integrity Scanner) และแก้ไขภัยคุกคามสำหรับ Windows พัฒนาด้วย C++ แบบ Native มุ่งเป้าตรวจจับสายการทำงานของสคริปต์ต้องสงสัย, ไฟล์ Dropper และช่องทางฝังตัวใน Build-Chain
