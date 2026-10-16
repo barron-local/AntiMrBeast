@@ -1,5 +1,7 @@
 # AntiMrBeast
 
+[English](README.md) | [ภาษาไทย](README.th.md)
+
 Native Windows C++ endpoint integrity scanner and threat remediation utility targeting malicious script execution chains, dropper binaries, and unauthorized build-chain persistence.
 
 ![Console Preview](docs/screenshot.png)
