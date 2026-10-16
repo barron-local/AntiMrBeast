@@ -3,6 +3,7 @@
 <p align="left">
   <a href="README.md"><img src="https://img.shields.io/badge/Language-English-238636?style=for-the-badge" alt="English"></a>
   <a href="README.th.md"><img src="https://img.shields.io/badge/ภาษาไทย-Thai-21262d?style=for-the-badge" alt="Thai"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License: MIT"></a>
 </p>
 
 Native Windows C++ endpoint integrity scanner and threat remediation utility targeting malicious script execution chains, dropper binaries, and unauthorized build-chain persistence.
@@ -43,6 +44,10 @@ Run `AntiMrBeast.exe` as Administrator (auto-elevates via UAC if launched withou
 ## Open Source & Further Development
 
 This project is fully open source. Anyone is 100% free to fork, modify, extend heuristic definitions, add signature coverage, or integrate these remediation routines into their own endpoint defense tools and pipelines.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## Disclaimer
 

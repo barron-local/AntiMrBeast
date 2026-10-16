@@ -3,6 +3,7 @@
 <p align="left">
   <a href="README.md"><img src="https://img.shields.io/badge/Language-English-21262d?style=for-the-badge" alt="English"></a>
   <a href="README.th.md"><img src="https://img.shields.io/badge/ภาษาไทย-Thai-238636?style=for-the-badge" alt="Thai"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License: MIT"></a>
 </p>
 
 เครื่องมือตรวจสอบความสมบูรณ์ของระบบ (Endpoint Integrity Scanner) และแก้ไขภัยคุกคามสำหรับ Windows พัฒนาด้วย C++ แบบ Native มุ่งเป้าตรวจจับสายการทำงานของสคริปต์ต้องสงสัย, ไฟล์ Dropper และช่องทางฝังตัวใน Build-Chain
@@ -43,6 +44,10 @@ g++ -std=c++17 -O2 main.cpp -o AntiMrBeast.exe
 ## การนำไปพัฒนาต่อ (Open Source & Contributions)
 
 โปรเจกต์นี้เปิดเป็น Open Source ทุกคนสามารถนำ Source Code ไปศึกษา ดัดแปลง เพิ่มฐานข้อมูล Signature หรือนำไปต่อยอดและพัฒนาต่อได้ 100% อย่างอิสระ ไม่ว่าจะเป็นการเพิ่มขอบเขตการตรวจจับหรือนำไปประยุกต์ใช้กับระบบรักษาความปลอดภัยอื่นๆ
+
+## สิทธิ์การใช้งาน (License)
+
+โปรเจกต์นี้เผยแพร่ภายใต้สัญญาอนุญาต [MIT License](LICENSE)
 
 ## ข้อจำกัดความรับผิดชอบ (Disclaimer)
 
