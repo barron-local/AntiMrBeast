@@ -1,3 +1,9 @@
+/*
+ * AntiMrBeast - Endpoint Integrity Scanner & Threat Remediation Utility
+ * Copyright (c) 2026 Local3
+ * Licensed under the MIT License. See LICENSE file in the project root.
+ */
+
 #include <windows.h>
 #include <tlhelp32.h>
 #include <iostream>
